@@ -1,2 +1,2 @@
 # lol
-school
+voor school
